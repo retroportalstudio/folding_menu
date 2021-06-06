@@ -3,7 +3,7 @@
 This is an easy to use package for adding Folding Menu to your Flutter Applications
 
 ## Demo
-![](https://github.com/retroportalstudio/folding_menu/blob/master/folding_menu.gif)
+![](https://github.com/retroportalstudio/folding_menu/blob/main/folding_menu.gif)
 
 ## Usage
 To Use, simply add Folding Menu to your Stack Widget(as the Last Element for most Cases):
